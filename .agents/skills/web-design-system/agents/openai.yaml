@@ -1,0 +1,14 @@
+interface:
+  display_name: Web Design System
+  short_description: Help with Web Design System tasks
+  default_prompt: Use $web-design-system. Create an original DESIGN.md for this interactive
+    website without implementing the application.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

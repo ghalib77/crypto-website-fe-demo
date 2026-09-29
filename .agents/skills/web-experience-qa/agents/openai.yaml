@@ -1,0 +1,14 @@
+interface:
+  display_name: Web Experience Qa
+  short_description: Help with Web Experience Qa tasks
+  default_prompt: Use $web-experience-qa. Verify this website against its accepted
+    requirements and report failures and unverified behavior honestly.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

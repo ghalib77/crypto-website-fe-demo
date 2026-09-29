@@ -1,0 +1,14 @@
+interface:
+  display_name: Web Requirements
+  short_description: Help with Web Requirements tasks
+  default_prompt: Use $web-requirements. Define the scope, assumptions, and observable
+    acceptance criteria for this interactive website.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

@@ -1,0 +1,14 @@
+interface:
+  display_name: Web Asset Performance
+  short_description: Help with Web Asset Performance tasks
+  default_prompt: Use $web-asset-performance. Optimize this website's assets and performance
+    using documented before-and-after measurements.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

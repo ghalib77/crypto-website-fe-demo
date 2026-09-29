@@ -1,0 +1,14 @@
+interface:
+  display_name: Web Delivery
+  short_description: Help with Web Delivery tasks
+  default_prompt: Use $web-delivery. Prepare a reviewable website handoff and verify
+    deployment if publication is authorized.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

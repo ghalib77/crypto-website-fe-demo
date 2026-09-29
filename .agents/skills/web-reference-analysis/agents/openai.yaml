@@ -1,0 +1,14 @@
+interface:
+  display_name: Web Reference Analysis
+  short_description: Help with Web Reference Analysis tasks
+  default_prompt: Use $web-reference-analysis. Inspect these reference websites across
+    desktop and mobile views and derive original design principles.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

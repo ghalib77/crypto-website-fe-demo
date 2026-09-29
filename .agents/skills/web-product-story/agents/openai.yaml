@@ -1,0 +1,14 @@
+interface:
+  display_name: Web Product Story
+  short_description: Help with Web Product Story tasks
+  default_prompt: Use $web-product-story. Define the section narrative, demo content,
+    and interaction states for this product website.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

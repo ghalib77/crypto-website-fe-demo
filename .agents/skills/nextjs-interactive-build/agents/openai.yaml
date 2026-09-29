@@ -1,0 +1,14 @@
+interface:
+  display_name: Nextjs Interactive Build
+  short_description: Help with Nextjs Interactive Build tasks
+  default_prompt: Use $nextjs-interactive-build. Implement the approved website experience
+    in Next.js and TypeScript and verify the affected behavior.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

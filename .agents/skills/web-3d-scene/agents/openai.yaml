@@ -1,0 +1,14 @@
+interface:
+  display_name: Web 3d Scene
+  short_description: Help with Web 3d Scene tasks
+  default_prompt: Use $web-3d-scene. Build the approved bounded 3D scene with synchronized
+    HTML controls, resource limits, and a static fallback.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

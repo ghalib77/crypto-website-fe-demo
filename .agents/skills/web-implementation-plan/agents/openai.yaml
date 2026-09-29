@@ -1,0 +1,14 @@
+interface:
+  display_name: Web Implementation Plan
+  short_description: Help with Web Implementation Plan tasks
+  default_prompt: Use $web-implementation-plan. Turn the accepted requirements and
+    design into a dependency-ordered implementation plan.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
