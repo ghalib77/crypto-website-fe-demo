@@ -1,0 +1,34 @@
+[
+  {
+    "pair": "Primary text/canvas",
+    "ratio": 15.78
+  },
+  {
+    "pair": "Secondary text/surface",
+    "ratio": 8.82
+  },
+  {
+    "pair": "Accent text/canvas",
+    "ratio": 6.6
+  },
+  {
+    "pair": "Primary button",
+    "ratio": 6.6
+  },
+  {
+    "pair": "Control border/surface",
+    "ratio": 4.98
+  },
+  {
+    "pair": "Focus/surface",
+    "ratio": 10.97
+  },
+  {
+    "pair": "Complete label",
+    "ratio": 7.94
+  },
+  {
+    "pair": "In-progress label",
+    "ratio": 7.62
+  }
+]

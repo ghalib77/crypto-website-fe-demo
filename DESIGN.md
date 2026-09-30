@@ -1,6 +1,6 @@
 # DESIGN.md — Hearthline / Progress Atlas
 
-**Status: proposed; awaiting user approval.** This document defines visual and interaction intent for a single-page concept website. It does not authorize implementation. All values below are proposed design choices, not measurements of the reference sites.
+**Status: approved for implementation by the user’s “Implement it” instruction on 30 September 2026.** This document defines visual and interaction intent for the single-page concept website. All values below are proposed design choices, not measurements of the reference sites.
 
 ## 1. Product premise and design authority
 
@@ -169,4 +169,4 @@ Before implementation acceptance, inspect wide/intermediate/narrow layouts, 320 
 
 Outstanding evidence: mobile layouts and touch interaction on all four references; reference reduced-motion behavior; exact typography and rendering technology; complete Gained reveal behavior in this browser. Do not treat these as verified. A further reference inspection with supported viewport controls is needed to complete the requested desktop/mobile comparison.
 
-Approval requested for: the provisional Hearthline premise, Progress Atlas concept, palette and typography, section narrative, demo interactions, 3D enhancement/fallback, and responsive requirements. No application implementation or publication begins until the user approves. Approval of the original direction does not erase the outstanding mobile-inspection gap.
+The user authorized implementation of this direction on 30 September 2026. Publication remains outside the implementation scope. Approval of the original direction does not erase the outstanding mobile-reference inspection gap.

@@ -1,0 +1,195 @@
+{
+  "conditions": "Chromium 134 Linux, 390x844, software WebGL, 4x CPU slowdown, 1.6 Mbps down / 750 Kbps up, 150 ms latency, fresh browser contexts; one sample per mode, local production server",
+  "runs": [
+    {
+      "reducedMotion": true,
+      "metrics": {
+        "lcp": 860,
+        "cls": 0.0013326864187974674,
+        "longTasks": [
+          191,
+          53,
+          248
+        ],
+        "events": [
+          48,
+          48,
+          48,
+          32,
+          32,
+          32
+        ],
+        "maxDrawCalls": 0,
+        "maxTriangles": 0
+      },
+      "resources": [
+        {
+          "name": "/_next/static/media/manrope_latin-s.p.1p_a2k8qd5zhp.woff2",
+          "encoded": 24836,
+          "transfer": 25136,
+          "type": "link"
+        },
+        {
+          "name": "/_next/static/chunks/1oqp7edv3yspn.css",
+          "encoded": 920,
+          "transfer": 1220,
+          "type": "link"
+        },
+        {
+          "name": "/_next/static/chunks/0sb5xy2_n3q0m.css",
+          "encoded": 4123,
+          "transfer": 4423,
+          "type": "link"
+        },
+        {
+          "name": "/_next/static/chunks/09lgyggnhjlha.js",
+          "encoded": 7245,
+          "transfer": 7545,
+          "type": "link"
+        },
+        {
+          "name": "/_next/static/chunks/2l_y_qqi24r7y.js",
+          "encoded": 47188,
+          "transfer": 47488,
+          "type": "script"
+        },
+        {
+          "name": "/_next/static/chunks/39u3ld3zqxqqm.js",
+          "encoded": 71628,
+          "transfer": 71928,
+          "type": "script"
+        },
+        {
+          "name": "/_next/static/chunks/turbopack-2gy6g6rr3wnhn.js",
+          "encoded": 3836,
+          "transfer": 4136,
+          "type": "script"
+        },
+        {
+          "name": "/_next/static/chunks/3fntmmi971322.js",
+          "encoded": 3661,
+          "transfer": 3961,
+          "type": "script"
+        },
+        {
+          "name": "/_next/static/chunks/0a76r9zyajjro.js",
+          "encoded": 6105,
+          "transfer": 6405,
+          "type": "script"
+        },
+        {
+          "name": "/_next/static/media/ibm_plex_mono_latin-s.3xdfs0-p_zi4c.woff2",
+          "encoded": 14708,
+          "transfer": 15008,
+          "type": "css"
+        }
+      ],
+      "navigation": [
+        {
+          "encoded": 25034,
+          "transfer": 25334
+        }
+      ],
+      "scene": "static"
+    },
+    {
+      "reducedMotion": false,
+      "metrics": {
+        "lcp": 628,
+        "cls": 0.0013326864187974674,
+        "longTasks": [
+          125,
+          219,
+          345,
+          240,
+          172
+        ],
+        "events": [
+          56,
+          56,
+          56,
+          32,
+          32,
+          32
+        ],
+        "maxDrawCalls": 14,
+        "maxTriangles": 2400
+      },
+      "resources": [
+        {
+          "name": "/_next/static/media/manrope_latin-s.p.1p_a2k8qd5zhp.woff2",
+          "encoded": 24836,
+          "transfer": 25136,
+          "type": "link"
+        },
+        {
+          "name": "/_next/static/chunks/1oqp7edv3yspn.css",
+          "encoded": 920,
+          "transfer": 1220,
+          "type": "link"
+        },
+        {
+          "name": "/_next/static/chunks/0sb5xy2_n3q0m.css",
+          "encoded": 4123,
+          "transfer": 4423,
+          "type": "link"
+        },
+        {
+          "name": "/_next/static/chunks/09lgyggnhjlha.js",
+          "encoded": 7245,
+          "transfer": 7545,
+          "type": "link"
+        },
+        {
+          "name": "/_next/static/chunks/2l_y_qqi24r7y.js",
+          "encoded": 47188,
+          "transfer": 47488,
+          "type": "script"
+        },
+        {
+          "name": "/_next/static/chunks/39u3ld3zqxqqm.js",
+          "encoded": 71628,
+          "transfer": 71928,
+          "type": "script"
+        },
+        {
+          "name": "/_next/static/chunks/turbopack-2gy6g6rr3wnhn.js",
+          "encoded": 3836,
+          "transfer": 4136,
+          "type": "script"
+        },
+        {
+          "name": "/_next/static/chunks/3fntmmi971322.js",
+          "encoded": 3661,
+          "transfer": 3961,
+          "type": "script"
+        },
+        {
+          "name": "/_next/static/chunks/0a76r9zyajjro.js",
+          "encoded": 6105,
+          "transfer": 6405,
+          "type": "script"
+        },
+        {
+          "name": "/_next/static/media/ibm_plex_mono_latin-s.3xdfs0-p_zi4c.woff2",
+          "encoded": 14708,
+          "transfer": 15008,
+          "type": "css"
+        },
+        {
+          "name": "/_next/static/chunks/0u4--i0-zasbn.js",
+          "encoded": 242569,
+          "transfer": 242869,
+          "type": "script"
+        }
+      ],
+      "navigation": [
+        {
+          "encoded": 25034,
+          "transfer": 25334
+        }
+      ],
+      "scene": "ready"
+    }
+  ]
+}

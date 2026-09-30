@@ -1,0 +1,21 @@
+{
+  "tool": "axe-core 4.13.0",
+  "results": [
+    {
+      "width": 1440,
+      "violations": [],
+      "incomplete": [
+        "color-contrast"
+      ],
+      "passes": 25
+    },
+    {
+      "width": 390,
+      "violations": [],
+      "incomplete": [
+        "color-contrast"
+      ],
+      "passes": 25
+    }
+  ]
+}
